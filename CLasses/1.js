@@ -9,7 +9,7 @@ const z = 8;
 let isZTen = z == 10 && y =='bishnu';
 
 let a = 23 & 34;
-if(z==10)
+if(z==1)
 {
 
 }
