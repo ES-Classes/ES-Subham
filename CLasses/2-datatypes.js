@@ -30,3 +30,10 @@ var u = null;
 
 //Object
 //Symbol
+
+console.log(typeof name);
+typeof 0
+typeof 45n
+typeof Symbol('id')
+typeof Math
+typeof null 
