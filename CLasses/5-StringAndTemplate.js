@@ -3,7 +3,7 @@ const b = "Vedas";
 const c = "Vedas";
 const d = new String('Vedas');
 
-console log(a.length);
+console.log(a.length);
 console.log(a.charAt(1));
 console.log(a[1]);
 
