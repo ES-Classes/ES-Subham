@@ -5,3 +5,5 @@ let x1 = x++;
 let y1 = ++y;
 console.log(x1,y1);
 
+
+
