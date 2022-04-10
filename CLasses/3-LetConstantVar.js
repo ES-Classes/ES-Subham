@@ -33,6 +33,4 @@ t = true || ss;
 
 const u = x ?? "subham" //nullish coalescing operator
 
-let let v = x ===90 ? 45 : 89;
-
 let w = x++ + 45 >> 2 <= 34 ^ 4 & 9;  
