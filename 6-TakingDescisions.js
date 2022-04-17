@@ -40,3 +40,4 @@ switch(day)
     break;
     default:console.log("It's saturday");
 }
+
