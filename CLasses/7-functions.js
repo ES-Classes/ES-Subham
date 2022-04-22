@@ -5,7 +5,7 @@ function printHello(name)
 
 function formatName(firstName,lastName)
 {
-    return `${lastName},${firstName}`;
+    return `Hello! ${lastName},${firstName}`;
 }
 
 //Arrow functions
@@ -13,4 +13,21 @@ function formatName(firstName,lastName)
 printHello(`Subham`);
 let fullName = formatName('Subham','Rajbhandari');
 console.log(fullName);
+
+
+
+function factorial(n)
+{
+    if(n < 2)
+    {
+    return 1;
+    }
+    return n*factorial(n-1);
+
+}
+
+
+console.log(factorial(5));
+
+
 
