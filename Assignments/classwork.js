@@ -11,7 +11,7 @@ function tip(n)
 
 let x = 250;
 console.log(tip(x));
+console.log(x);
 
 
 console.log('The bill was:',x,', The tip was:',tip(x),',The total was:',x+tip(x));
-
